@@ -1,0 +1,38 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.title {
+  color: rgb(255, 58, 39);
+  font-size: 2rem;
+  font-family: "Montserat", sans-serif;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-style: none;
+  color: rgb(255, 58, 39);
+  font-size: 1.2rem;
+  font-family: "Montserat", sans-serif;
+}
+
+a:hover {
+  color: rgb(243, 103, 91);
+}

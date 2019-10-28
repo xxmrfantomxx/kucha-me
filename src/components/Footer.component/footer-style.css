@@ -1,0 +1,8 @@
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(255, 140, 74);
+  color: white;
+  padding: 1.2rem 1rem;
+  font-size: 1.1rem;
+}

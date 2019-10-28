@@ -1,0 +1,47 @@
+.main-container-uvod {
+  margin-top: 82.87px;
+  background: rgb(255, 188, 112);
+  color: white;
+  padding-bottom: 5rem;
+  width: 100%;
+}
+
+.title-uvod {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.uvod-content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.img {
+  width: 100%;
+  align-self: center;
+}
+
+.text-container {
+  width: 70%;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  letter-spacing: 1.5px;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .img {
+    max-width: 700px;
+  }
+
+  .text-container {
+    max-width: 300px;
+    align-self: center;
+    margin-left: 3rem;
+  }
+}
