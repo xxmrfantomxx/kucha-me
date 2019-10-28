@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kucha-me/static/css/main.4a97f32c.chunk.css",
+    "main.css": "/kucha-me/static/css/main.be214f13.chunk.css",
     "main.js": "/kucha-me/static/js/main.bb4451c2.chunk.js",
     "main.js.map": "/kucha-me/static/js/main.bb4451c2.chunk.js.map",
     "runtime-main.js": "/kucha-me/static/js/runtime-main.04f17705.js",
@@ -8,14 +8,14 @@
     "static/js/2.236d3018.chunk.js": "/kucha-me/static/js/2.236d3018.chunk.js",
     "static/js/2.236d3018.chunk.js.map": "/kucha-me/static/js/2.236d3018.chunk.js.map",
     "index.html": "/kucha-me/index.html",
-    "precache-manifest.7a13af9140ac83c5c8e5709c955aad1f.js": "/kucha-me/precache-manifest.7a13af9140ac83c5c8e5709c955aad1f.js",
+    "precache-manifest.69d42474caa862be63d407bcaadf44a2.js": "/kucha-me/precache-manifest.69d42474caa862be63d407bcaadf44a2.js",
     "service-worker.js": "/kucha-me/service-worker.js",
-    "static/css/main.4a97f32c.chunk.css.map": "/kucha-me/static/css/main.4a97f32c.chunk.css.map"
+    "static/css/main.be214f13.chunk.css.map": "/kucha-me/static/css/main.be214f13.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.04f17705.js",
     "static/js/2.236d3018.chunk.js",
-    "static/css/main.4a97f32c.chunk.css",
+    "static/css/main.be214f13.chunk.css",
     "static/js/main.bb4451c2.chunk.js"
   ]
 }
