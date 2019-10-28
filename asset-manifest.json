@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kucha-me/static/css/main.967ba4c2.chunk.css",
+    "main.js": "/kucha-me/static/js/main.bb4451c2.chunk.js",
+    "main.js.map": "/kucha-me/static/js/main.bb4451c2.chunk.js.map",
+    "runtime-main.js": "/kucha-me/static/js/runtime-main.04f17705.js",
+    "runtime-main.js.map": "/kucha-me/static/js/runtime-main.04f17705.js.map",
+    "static/js/2.236d3018.chunk.js": "/kucha-me/static/js/2.236d3018.chunk.js",
+    "static/js/2.236d3018.chunk.js.map": "/kucha-me/static/js/2.236d3018.chunk.js.map",
+    "index.html": "/kucha-me/index.html",
+    "precache-manifest.f6f0f5f6ec5fe58363abaa3f7f8bb34f.js": "/kucha-me/precache-manifest.f6f0f5f6ec5fe58363abaa3f7f8bb34f.js",
+    "service-worker.js": "/kucha-me/service-worker.js",
+    "static/css/main.967ba4c2.chunk.css.map": "/kucha-me/static/css/main.967ba4c2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f17705.js",
+    "static/js/2.236d3018.chunk.js",
+    "static/css/main.967ba4c2.chunk.css",
+    "static/js/main.bb4451c2.chunk.js"
+  ]
+}
