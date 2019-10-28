@@ -2,8 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 95%;
-  transform: translateX(2.5%);
+  width: 100%;
+  /* transform: translateX(2.5%); */
+  /* padding: 0 2.5%; */
   margin: 0 auto;
   background-color: #fff;
   position: fixed;
@@ -15,6 +16,11 @@
   color: rgb(255, 58, 39);
   font-size: 2rem;
   font-family: "Montserat", sans-serif;
+  padding-left: 2.5%;
+}
+
+nav {
+  padding-right: 2.5%;
 }
 
 ul {
