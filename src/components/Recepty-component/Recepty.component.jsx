@@ -15,7 +15,7 @@ class Recept extends React.Component {
   render() {
     const { img, receptName, postupTitle, popis, suroviny } = this.props;
     return (
-      <div className="recept-container">
+      <article className="recept-container">
         <div className="recept-img">
           <img src={img} alt={receptName} />
         </div>
@@ -32,11 +32,12 @@ class Recept extends React.Component {
               {suroviny}
             </div>
           )}
-          <button onClick={this.handleClick}>
+
+          <button className="recept-btn" onClick={this.handleClick}>
             {this.state.isPostupTrue ? <p>Suroviny</p> : <p>Postup</p>}
           </button>
         </div>
-      </div>
+      </article>
     );
   }
 }

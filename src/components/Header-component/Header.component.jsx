@@ -8,13 +8,13 @@ function Header() {
       <nav>
         <ul>
           <li>
+            <a href="#uvod-menu-link">ůvod</a>
+          </li>
+          <li>
             <a href="#recepty-menu-link">recepty</a>
           </li>
           <li>
             <a href="#form-menu-link">formular</a>
-          </li>
-          <li>
-            <a href="#footer-menu-link">kontakt</a>
           </li>
         </ul>
       </nav>

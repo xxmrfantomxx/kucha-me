@@ -4,7 +4,12 @@ import "./form-styles.css";
 
 function Form({ jmeno, receptPopis, email, nazev, handleChange }) {
   return (
-    <form id="form-menu-link" className="form-container">
+    <form
+      action="https://formspree.io/jakub.michalek@educapardubice.cz"
+      method="POST"
+      id="form-menu-link"
+      className="form-container"
+    >
       <div className="form-column">
         <input
           type="text"

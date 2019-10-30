@@ -1,10 +1,10 @@
 import React from "react";
 import "./uvod-styles.css";
-import majitelka from "../../images/majitelka.jpeg";
+import majitelka from "../../images/majitelka.jpg";
 
 function Uvod({ name, content }) {
   return (
-    <section className="main-container-uvod">
+    <section id="uvod-menu-link" className="main-container-uvod">
       <h1 className="title-uvod">{name}</h1>
       <div className="container"></div>
       <div className="uvod-content">

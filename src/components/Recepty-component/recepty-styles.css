@@ -30,7 +30,7 @@ h1 {
 
 .recept-text {
   display: block;
-  width: 50%;
+  width: 90%;
   text-align: center;
   color: white;
   line-height: 1.5rem;
@@ -41,12 +41,31 @@ h1 {
   margin-bottom: 3rem;
 }
 
+.recept-btn {
+  padding: 0 20px;
+  border: solid 3px transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+.recept-btn:hover {
+  border: solid 3px rgb(190, 190, 190);
+  background-color: rgb(201, 201, 201);
+}
+
 @media screen and (min-width: 768px) {
   .recept-img {
-    width: 40%;
     max-width: 500px;
   }
   .recept-text {
     padding-left: 2rem;
+    width: 50%;
+    line-height: 1.2;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .recept-text {
+    line-height: 1.5rem;
   }
 }

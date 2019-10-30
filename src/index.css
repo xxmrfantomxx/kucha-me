@@ -16,6 +16,10 @@ h6 {
   font-family: "Montserrat", sans-serif;
 }
 
+li {
+  text-transform: capitalize;
+}
+
 h1 {
   font-size: 2rem;
 }

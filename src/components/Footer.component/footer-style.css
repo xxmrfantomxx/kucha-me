@@ -5,4 +5,5 @@
   color: white;
   padding: 1.2rem 1rem;
   font-size: 1.1rem;
+  flex-wrap: wrap;
 }
