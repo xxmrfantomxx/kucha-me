@@ -14,7 +14,7 @@ function Header() {
             <a href="#recepty-menu-link">recepty</a>
           </li>
           <li>
-            <a href="#form-menu-link">formular</a>
+            <a href="#form-menu-link">formulář</a>
           </li>
         </ul>
       </nav>
