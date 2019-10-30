@@ -19,23 +19,35 @@ input {
   padding: 1rem 0 1rem 0;
   margin-bottom: 1rem;
   width: 40%;
-  min-width: 300px;
+  min-width: 250px;
   border: none;
 }
 
 .form-textarea {
   width: 40%;
-  min-width: 400px;
+  min-width: 250px;
   border: none;
 }
 
 .form-submit {
   display: block;
-  padding: 10px 20px;
+  padding: 16px 23px;
   margin: 0 auto;
   margin-top: 2rem;
   border: none;
   font-size: 1rem;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
+  border: solid 3px transparent;
+}
+
+.form-submit:hover {
+  border: solid 3px rgb(190, 190, 190);
+  background-color: rgb(201, 201, 201);
+}
+
+@media screen and (min-width: 768px) {
+  .form-textarea {
+    min-width: 450px;
+  }
 }

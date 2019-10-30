@@ -23,18 +23,18 @@ class Recept extends React.Component {
           <h1>{receptName}</h1>
           {this.state.isPostupTrue ? (
             <div>
-              <h2 className="recept-postup-title">{postupTitle}</h2>
-              <p className="recept-postup-text">{popis}</p>
+              <h2>Co budeme potřebovat?</h2>
+              {suroviny}
             </div>
           ) : (
             <div>
-              <h2>Co budeme potřebovat?</h2>
-              {suroviny}
+              <h2 className="recept-postup-title">{postupTitle}</h2>
+              <p className="recept-postup-text">{popis}</p>
             </div>
           )}
 
           <button className="recept-btn" onClick={this.handleClick}>
-            {this.state.isPostupTrue ? <p>Suroviny</p> : <p>Postup</p>}
+            {this.state.isPostupTrue ? <p>Postup</p> : <p>Suroviny</p>}
           </button>
         </div>
       </article>
