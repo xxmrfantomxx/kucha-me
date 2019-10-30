@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/kucha-me/static/css/main.be214f13.chunk.css",
-    "main.js": "/kucha-me/static/js/main.bb4451c2.chunk.js",
-    "main.js.map": "/kucha-me/static/js/main.bb4451c2.chunk.js.map",
+    "main.css": "/kucha-me/static/css/main.fce1b7ff.chunk.css",
+    "main.js": "/kucha-me/static/js/main.a9d6cbe0.chunk.js",
+    "main.js.map": "/kucha-me/static/js/main.a9d6cbe0.chunk.js.map",
     "runtime-main.js": "/kucha-me/static/js/runtime-main.04f17705.js",
     "runtime-main.js.map": "/kucha-me/static/js/runtime-main.04f17705.js.map",
     "static/js/2.236d3018.chunk.js": "/kucha-me/static/js/2.236d3018.chunk.js",
     "static/js/2.236d3018.chunk.js.map": "/kucha-me/static/js/2.236d3018.chunk.js.map",
     "index.html": "/kucha-me/index.html",
-    "precache-manifest.69d42474caa862be63d407bcaadf44a2.js": "/kucha-me/precache-manifest.69d42474caa862be63d407bcaadf44a2.js",
+    "precache-manifest.38b493fbe93c0af45b16f4c13ff7703f.js": "/kucha-me/precache-manifest.38b493fbe93c0af45b16f4c13ff7703f.js",
     "service-worker.js": "/kucha-me/service-worker.js",
-    "static/css/main.be214f13.chunk.css.map": "/kucha-me/static/css/main.be214f13.chunk.css.map"
+    "static/css/main.fce1b7ff.chunk.css.map": "/kucha-me/static/css/main.fce1b7ff.chunk.css.map",
+    "static/media/majitelka.jpg": "/kucha-me/static/media/majitelka.0d81ab7f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.04f17705.js",
     "static/js/2.236d3018.chunk.js",
-    "static/css/main.be214f13.chunk.css",
-    "static/js/main.bb4451c2.chunk.js"
+    "static/css/main.fce1b7ff.chunk.css",
+    "static/js/main.a9d6cbe0.chunk.js"
   ]
 }
