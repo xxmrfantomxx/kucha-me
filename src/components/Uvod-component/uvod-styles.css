@@ -24,7 +24,7 @@
 }
 
 .text-container {
-  width: 70%;
+  width: 80%;
   font-size: 1.2rem;
   line-height: 1.5rem;
   letter-spacing: 1.5px;
@@ -40,7 +40,7 @@ img {
   }
 
   .text-container {
-    max-width: 300px;
+    max-width: 500px;
     align-self: center;
     margin-left: 3rem;
   }

@@ -46,6 +46,8 @@ h1 {
   border: solid 3px transparent;
   cursor: pointer;
   position: relative;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
 }
 
 .recept-btn:hover {

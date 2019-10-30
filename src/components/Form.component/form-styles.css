@@ -37,14 +37,5 @@ input {
   border: none;
   font-size: 1rem;
   cursor: pointer;
-}
-
-@media screen and (min-width: 768px) {
-  .form-column * {
-    font-size: 1.1rem;
-  }
-
-  .form-submit {
-    font-size: 1.1rem;
-  }
+  font-family: "Roboto", sans-serif;
 }
